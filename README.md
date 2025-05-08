@@ -3,7 +3,7 @@
 A simple Python script to download all public GitHub repositories for any user or organization.
 
 ## Features
-- **Download All Repositories**: Fetches all public repositories for a specified user or organization.
+- **Download All Repositories**: Fetches all repositories for a specified user or organization.
 - **Update Existing Repositories**: Automatically pulls updates if the repository already exists locally.
 - **Pagination Support**: Handles large repositories with seamless pagination.
 - **Minimal Dependencies**: Requires only `requests` and `git`.
