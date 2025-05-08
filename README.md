@@ -88,13 +88,3 @@ To create a token:
 - Make sure `git` is installed and accessible from your terminal.
 
 ---
-
-## Contributing
-Feel free to submit issues or pull requests if you find any bugs or want to add features.
-
----
-
-## License
-MIT License - Feel free to use, share, and modify this script.
-
----
